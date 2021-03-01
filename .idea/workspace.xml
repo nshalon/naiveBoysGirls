@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7af15bc6-1fd1-46f7-820f-0e17376e2296" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/classifyLinear.py" beforeDir="false" afterPath="$PROJECT_DIR$/classifyLinear.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/naivebayes.py" beforeDir="false" afterPath="$PROJECT_DIR$/naivebayes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/naivebayesCL.py" beforeDir="false" afterPath="$PROJECT_DIR$/naivebayesCL.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/naivebayesPXY.py" beforeDir="false" afterPath="$PROJECT_DIR$/naivebayesPXY.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/naivebayesPY.py" beforeDir="false" afterPath="$PROJECT_DIR$/naivebayesPY.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1owZ50PmosxgHufysRuxnfKXdtN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>$USER_HOME$/.subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7af15bc6-1fd1-46f7-820f-0e17376e2296" name="Default Changelist" comment="" />
+      <created>1614199434728</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614199434728</updated>
+    </task>
+    <servers />
+  </component>
+</project>
