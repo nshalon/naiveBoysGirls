@@ -23,7 +23,7 @@ def classifyLinear(x, w, b):
     # Convertng input matrix x and x1 into NumPy matrix
     # input x and y should be in the form: 'a b c d...; e f g h...; i j k l...'
     X = np.matrix(x)
-    W = np.array(w).reshape(shape=(X.shape[0],))
+    W = np.array(w).reshape((X.shape[0],))
 
     preds = np.sign(W.T * X)
 
