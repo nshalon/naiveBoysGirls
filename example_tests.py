@@ -105,6 +105,6 @@ def example_tests():
 #    Tests 10 is on naivebayesCL
     
     
-    percentage=ok/(r+ok)*100;
+    percentage=ok/(r+ok)*100
     return r,ok,s
 

@@ -44,10 +44,10 @@ def naivebayesPXY(x, y):
 
     epsilon = 1e-10 # smoothing factor
 
-    print("x shape", Xnew.shape, "y shape", Ynew.shape)
-    print("poy")
-    print("y shape", np.reshape((Ynew == 1), (Ynew.shape[1],)))
-    print(np.array(Ynew == 1), np.concatenate(Ynew == 1).ravel().shape)
+    # print("x shape", Xnew.shape, "y shape", Ynew.shape)
+    # print("poy")
+    # print("y shape", np.reshape((Ynew == 1), (Ynew.shape[1],)))
+    # print(np.array(Ynew == 1), np.concatenate(Ynew == 1).ravel().shape)
     positives = Xnew[:, np.array(Ynew == 1).ravel()]
     negatives = Xnew[:, np.array(Ynew == -1).ravel()]
     posprob = (np.sum(positives, axis=1) + epsilon) / (positives.shape[0] + d * epsilon)
