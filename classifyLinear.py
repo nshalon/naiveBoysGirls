@@ -26,5 +26,5 @@ def classifyLinear(x, w, b):
     W = np.array(w).reshape((X.shape[0],))
 
     preds = np.sign(W.T * X)
-    print(preds)
+
     return preds

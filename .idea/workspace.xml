@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7af15bc6-1fd1-46f7-820f-0e17376e2296" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/get_test_acc.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/classifyLinear.py" beforeDir="false" afterPath="$PROJECT_DIR$/classifyLinear.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/genTrainFeatures.py" beforeDir="false" afterPath="$PROJECT_DIR$/genTrainFeatures.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/naivebayesPXY.py" beforeDir="false" afterPath="$PROJECT_DIR$/naivebayesPXY.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/name2features.py" beforeDir="false" afterPath="$PROJECT_DIR$/name2features.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
