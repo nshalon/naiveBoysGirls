@@ -33,7 +33,8 @@ def naivebayesPXY(x, y):
     # Pre-constructing a matrix of all-ones (dx2)
     X0 = np.ones((d,2))
     Y0 = np.matrix('-1, 1')
-
+    print("Y0", Y0)
+    
     # add one all-ones positive and negative example
     Xnew = np.hstack((X, X0)) #stack arrays in sequence horizontally (column-wise)
         #Xnew = np.concatenate((X, X0), axis=1) #concatenate to column
